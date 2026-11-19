@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-SureLink is a South African short-term insurance data engineering portfolio project. It demonstrates how insurance data from a relational database can be ingested, cleaned, transformed and organised for reporting and analysis using Microsoft Azure and Microsoft Fabric.
+SureLink is a South African short-term insurance data engineering project. It demonstrates how insurance data from a relational database can be ingested, cleaned, transformed and organised for reporting and analysis using Microsoft Azure and Microsoft Fabric.
 
 The project uses four main data entities:
 
